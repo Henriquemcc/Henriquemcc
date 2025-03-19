@@ -23,7 +23,7 @@
   ##
 
 [//]: # (Link para as minhas redes sociais)
-<div>
+<div style="display: inline_block; text-align: center;">
     <a href="https://www.linkedin.com/in/henriquemcc/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil no LinkedIn">
     </a>
