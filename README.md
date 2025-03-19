@@ -32,4 +32,7 @@
     <a href="https://www.youtube.com/@henriquemcc">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Perfil no YouTube">
     </a>
+    <a href="mailto:henriquemendonacastelar@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+    </a>
 </div>
