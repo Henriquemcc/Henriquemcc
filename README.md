@@ -18,3 +18,15 @@
     <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/docker/docker-original.svg" alt="Docker" height="30" width="40"/>
     <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" height="30" width="40">
 </div>
+
+  ##
+
+[//]: # (Link para as minhas redes sociais)
+<div>
+    <a href="https://www.linkedin.com/in/henriquemcc/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil no LinkedIn">
+    </a>
+    <a href="https://www.youtube.com/@henriquemcc">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Perfil no YouTube">
+    </a>
+</div>
