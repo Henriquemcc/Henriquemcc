@@ -8,9 +8,10 @@
     </a>
 </div>
 
-[//]: # (Linguagens que quero destacar)
+[//]: # (Linguagens e tecnologias que quero destacar)
 <div style="display: inline_block; text-align: center;">
     <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/kotlin/kotlin-original.svg" alt="Linguagem de programação Kotlin" height="30" width="40"/>
+    <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/spring/spring-original.svg" alt="Framework Spring Boot" height="30" width="40">
     <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/python/python-original.svg" alt="Linguagem de programação Python" height="30" width="40"/>
     <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/java/java-original.svg" alt="Linguagem de programação Java" height="30" width="40"/>
     <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/bash/bash-original.svg" alt="Linguagem de programação Bash" height="30" width="40"/>
