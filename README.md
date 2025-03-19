@@ -33,6 +33,9 @@
     <a href="https://gitlab.com/henriquemcc">
         <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Perfil no GitLab">
     </a>
+    <a href="https://stackoverflow.com/users/9368924/henrique-mendon%c3%a7a">
+        <img src="https://img.shields.io/badge/Stack%20Exchange-1E5397?style=for-the-badge&logo=Stack%20Exchange&logoColor=white" alt="Perfil no Stack Exchange">
+    </a>
     <a href="https://www.youtube.com/@henriquemcc">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Perfil no YouTube">
     </a>
