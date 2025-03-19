@@ -26,6 +26,9 @@
     <a href="https://www.linkedin.com/in/henriquemcc/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil no LinkedIn">
     </a>
+    <a href="https://hub.docker.com/u/Henriquemcc">
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Perfil no Docker Hub">
+    </a>
     <a href="https://gitlab.com/henriquemcc">
         <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Perfil no GitLab">
     </a>
