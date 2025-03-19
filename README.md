@@ -1,5 +1,9 @@
 # Olá, eu sou o Henrique Mendonça
 
+- 🏡 Moro em Belo Horizonte.
+- 📚 Estudo Ciência da Computação na PUC Minas.
+- 👀 Tenho interesse em Desenvolvimento Back-End, DevOps, e Computação em Nuvem.
+
 [//]: # (GitHub Stats)
 <div style="text-align: center;">
     <a href="https://github.com/Henriquemcc">
