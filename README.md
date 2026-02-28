@@ -6,10 +6,10 @@
 - 👀 Tenho interesse em Desenvolvimento Back-End, DevOps, e Computação em Nuvem.
 
 [//]: # (GitHub Stats)
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriquemcc&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast" alt="GitHub Readme Stats para o perfil Henriquemcc."/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquemcc&show_icons=true&theme=highcontrast" alt="GitHub Readme Stats Top Languages Card para o perfil Henriquemcc."/>
-</div>
+</div> -->
 
 [//]: # (Linguagens e tecnologias que quero destacar)
 <div style="display: inline_block; text-align: center;">
