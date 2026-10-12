@@ -2,7 +2,8 @@
 
 - 🏡 Moro em Belo Horizonte.
 - 📚 Formado em Ciência da Computação na PUC Minas.
-- 📚 Estudo Computação em Nuvem na PUC Minas.
+- 📚 Pós-graduado em Computação em Nuvem na PUC Minas.
+- 📚 Realizando Mestrado em Informática na PUC Minas.
 - 👀 Tenho interesse em Desenvolvimento Back-End, DevOps, e Computação em Nuvem.
 
 [//]: # (GitHub Stats)
